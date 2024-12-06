@@ -1,0 +1,11 @@
+Detailed Sentiment Analysis:
+Describe a time when you had to handle a difficult situation at work. How did you manage it? - Sentiment: Highly negative, Score: 10
+Can you give an example of a time when you worked under pressure to meet a deadline? - Sentiment: Highly negative, Score: 10
+Tell me about a time when you had to work as part of a team to accomplish a goal. - Sentiment: Highly negative, Score: 10
+Have you ever dealt with a conflict with a colleague? How did you resolve it? - Sentiment: Highly negative, Score: 10
+Describe a situation where you had to adapt to a significant change at work. How did you handle it? - Sentiment: Highly negative, Score: 10
+
+Overall Sentiment Summary:
+Overall Sentiment: Highly Negative
+Score: 10 / 100
+The overall responses show a highly negative sentiment, signaling significant dissatisfaction or challenges. Immediate attention is needed to address key areas of concern.
